@@ -3,3 +3,4 @@
 %uri=https://github.com/kylerdmoore/flipr/
 
 appschema 2022-11-14T16:40:40Z Kyler Moore <kylerdmoore@gmail.com> # Add schema for all flipr objects.
+users [appschema] 2022-11-15T13:30:04Z Kyler Moore <kylerdmoore@gmail.com> # Create table to track our users.
