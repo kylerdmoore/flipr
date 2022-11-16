@@ -6,3 +6,4 @@ appschema 2022-11-14T16:40:40Z Kyler Moore <kylerdmoore@gmail.com> # Add schema 
 users [appschema] 2022-11-15T13:30:04Z Kyler Moore <kylerdmoore@gmail.com> # Create table to track our users.
 insert_user [users appschema] 2022-11-15T15:35:16Z Kyler Moore <kylerdmoore@gmail.com> # Creates a function to insert a user.
 change_pass [users appschema] 2022-11-15T15:38:13Z Kyler Moore <kylerdmoore@gmail.com> # Creates a function to change a user password.
+@v1.0.0-dev1 2022-11-16T01:19:49Z Kyler Moore <kylerdmoore@gmail.com> # Tag v1.0.0-dev1.
